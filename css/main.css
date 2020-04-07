@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+}
+
+video {
+  max-width: 100%;
+  width: 320px;
+}
+
+.logo {
+  width: 320px;
+}
+
+.logo-text {
+  color: #01689b;
+  font-size: 0.8rem;
+}
+
+.g-bg {
+  background-color: #ebebeb;
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid red;
+  margin: 1rem auto;
+}
+
+input:focus {
+  outline: none;
+}
+
+p {
+  font-size: 0.9rem;
+}
+
+.fit-image {
+  width: 100%;
+}
+/*# sourceMappingURL=main.css.map */
