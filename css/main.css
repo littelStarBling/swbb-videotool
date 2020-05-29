@@ -37,4 +37,12 @@ p {
 .fit-image {
   width: 100%;
 }
+
+#tb {
+  border-bottom: 1px solid gray;
+  width: 9rem;
+}
+
+
 /*# sourceMappingURL=main.css.map */
+
