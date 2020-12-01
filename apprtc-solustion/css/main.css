@@ -2,6 +2,11 @@ body {
   font-family: sans-serif;
 }
 
+video {
+  max-width: 100%;
+  width: 320px;
+}
+
 .logo {
   width: 320px;
 }
@@ -33,8 +38,11 @@ p {
   width: 100%;
 }
 
-form {
-  text-align: center;
-  margin-top: 5rem;
+#tb {
+  border-bottom: 1px solid gray;
+  width: 9rem;
 }
+
+
 /*# sourceMappingURL=main.css.map */
+

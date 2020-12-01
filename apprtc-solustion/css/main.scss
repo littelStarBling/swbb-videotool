@@ -5,7 +5,12 @@ body {
     font-family: sans-serif;
   }
 
-  .logo {
+  video {
+    max-width: 100%;
+    width: 320px;
+  }
+
+    .logo {
         width: 320px;
     }
       
@@ -34,9 +39,4 @@ body {
   
   .fit-image {
       width: 100%;
-  }
-
-  form {
-      text-align: center;
-      margin-top: 5rem;
   }
